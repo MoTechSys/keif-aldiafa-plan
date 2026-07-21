@@ -1,0 +1,3 @@
+[submodule "00-الموقع-keif-v2"]
+	path = 00-الموقع-keif-v2
+	url = https://github.com/MoTechSys/keif-v2.git
